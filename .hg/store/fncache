@@ -1,0 +1,7 @@
+data/README.md.i
+data/LICENSE.i
+data/rebar.config.i
+data/src/dephelper_app.erl.i
+data/.gitignore.i
+data/src/dephelper.app.src.i
+data/src/dephelper_sup.erl.i
